@@ -19,7 +19,7 @@
 <div id="app">
   <Container>
     <Nav>
-      <a slot="left" href="/" class="brand">Hanzi Learner</a>
+      <a slot="left" href="/" class="brand">学习写汉字</a>
       <span class="is-vertical-align" slot="right">
         <HanziSetting />
       </span>
