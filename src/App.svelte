@@ -37,6 +37,10 @@
 
 <style>
   :global(:root) {
+    --color-primary: #a2249c;
+    --color-darkGrey: #663fc2;
+    --color-grey: #1a78e4;
+    --color-error: #f80000;
     --grid-maxWidth: 108rem;
   }
 
