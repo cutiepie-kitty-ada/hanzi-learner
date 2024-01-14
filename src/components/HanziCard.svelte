@@ -18,6 +18,7 @@
       showOutline: true,
       showHintAfterMisses: 3,
       highlightOnComplete: true,
+      strokeColor: '#40187d',
     });
   });
 
